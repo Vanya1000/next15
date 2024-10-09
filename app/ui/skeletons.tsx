@@ -66,7 +66,7 @@ export function LatestInvoicesSkeleton() {
     >
       <div className="mb-4 h-8 w-36 rounded-md bg-gray-100" />
       <div className="flex grow flex-col justify-between rounded-xl bg-gray-100 p-4">
-        <div className="bg-white px-6">
+        <div className="bg-white px-6 rounded-md">
           <InvoiceSkeleton />
           <InvoiceSkeleton />
           <InvoiceSkeleton />
